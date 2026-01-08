@@ -30,6 +30,9 @@ I’m a product-minded engineer with experience across **mobile, web, and backen
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=android)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
 
+- MVVM architecture
+- MVI architecture
+- MVP architecture
 - Jetpack Compose  
 - Custom Navigation Graphs  
 - Offline-first architecture  
@@ -60,13 +63,6 @@ I’m a product-minded engineer with experience across **mobile, web, and backen
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devmike01&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmike01&layout=compact)
-
----
 
 ## 🤝 Let’s Build
 
