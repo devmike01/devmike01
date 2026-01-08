@@ -5,7 +5,7 @@
 
 I build **end-to-end products** — from Android apps and modern web frontends to backend systems and custom infrastructure. I care deeply about performance, architecture, and developer experience.
 
-📍 Lagos, Nigeria
+📍 Lagos, Nigeria  
 💼 LinkedIn: [https://linkedin.com/in/devmike01](https://www.linkedin.com/in/gbenga-oladipupo-6137a284/)  
 🦋 BlueSky: [devmike01.bsky.social](https://bsky.app/profile/devmike01.bsky.social)
 
