@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mike (devmike01)
+# 👋 Hi, I’m Gbenga Oladipupo (devmike01)
 
 **Full-Stack & Android Engineer** | **Open-Source Builder**  
 **Android · Kotlin · Jetpack Compose · Next.js · Django · Systems Design**
