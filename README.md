@@ -15,9 +15,9 @@ I build **end-to-end products** — from Android apps and modern web frontends t
 
 I’m a product-minded engineer with experience across **mobile, web, and backend systems**. I enjoy working close to fundamentals — whether that’s custom navigation in Jetpack Compose, offline-first authentication, or building database-like systems from scratch.
 
-- 🧩 Android & backend specialist with strong frontend instincts  
+- 🧩 8+ years in Android Development  
 - 📱 Building modern Android apps using **Kotlin + Jetpack Compose**  
-- 🌐 8+ years in frontend engineering (Next.js, UI/UX)  
+- 🌐 Frontend engineering (Next.js, UI/UX)  
 - ⚙️ Exploring systems: databases, offline auth, offline payments  
 - 🧠 Big on clean architecture, scalability, and long-term maintainability
 
