@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gbenga Oladipupo (devmike01)
 
 **Full-Stack & Android Engineer** | **Open-Source Builder**  
-**Android · Kotlin · Jetpack Compose · Next.js · Django · Systems Design**
+**Android · Kotlin · Jetpack Compose · TypeScript · Django · Systems Design**
 
 I build **end-to-end products** — from Android apps and modern web frontends to backend systems and custom infrastructure. I care deeply about performance, architecture, and developer experience.
 
